@@ -1,7 +1,8 @@
 body {
-  padding: 30px;
-  background-color: #84888a;
-  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 48px;
+  background-color: #6B50D7;
+  font-family: "Greycliff Bold", "Helvetica Neue", Helvetica, sans-serif;
   color: #fff;
 }
 
@@ -20,9 +21,10 @@ input {
 
 button {
   padding: 10px;
-  background-color: #0f5f74;
+  background-color: #FFDA19;
   border: none;
-  color: #fff;
+  color: #2C2C2C;
+  font-weight: bold;
 }
 
 button:hover {
